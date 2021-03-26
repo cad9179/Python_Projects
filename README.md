@@ -1,2 +1,0 @@
-# mycv
-Carlos Diaz Resume
